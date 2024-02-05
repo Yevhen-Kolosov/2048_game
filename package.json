@@ -4,7 +4,7 @@
   "scripts": {
     "open": "start http://localhost:1234",
     "start": "npm run open && parcel src/index.html",
-    "build": "parcel build ./src/index.html --public-url ./",
+    "build": "parcel build ./src/index.html",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
@@ -13,7 +13,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "2.10.2",
     "gh-pages": "^6.1.1",
-    "parcel": "2.10.2",
+    "parcel": "^2.10.2",
     "sass": "^1.70.0"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
