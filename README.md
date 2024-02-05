@@ -1,4 +1,4 @@
-- [DEMO LINK](https://yevhen-kolosov.github.io/2048_game/)
+### [DEMO LINK](https://yevhen-kolosov.github.io/2048_game/)
 
 ## 2048 game
 
